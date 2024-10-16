@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+AI-System
+.idea/
+.hugo_build.lock
+public
+resources/_gen
