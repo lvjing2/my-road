@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://qtlink.cn/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'lvjing2 的记录站'
 
 [module]
   [[module.imports]]
